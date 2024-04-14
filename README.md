@@ -1,5 +1,6 @@
-### Hi there 👋
 
+<h1 align='center'>Hi 👋, I'm Mostafa Sharifi</h1>
+<h3 align='center'>Just A frontend Developer 😎</h3>
 <!--
 **mostafaa-sh/mostafaa-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
