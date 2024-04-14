@@ -2,12 +2,18 @@
 <h1 align='center'>Hi 👋,My name is Mostafa</h1>
 <h3 align='center'>Just A frontend Developer 😎</h3>
 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </picture>
+
+---
+
+
 - 🌱 These days I’m learning anything!
 - 📫 How to reach me  **mostafashshsh@yahoo.com**
 - 📶 I am always online on Telegram **https://t.me/mostafashshsh**
 
 
 <h2 align='left'>💻 Tech Stack:</h2>
+
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
