@@ -11,6 +11,11 @@
 - 📫 How to reach me  **mostafashshsh@yahoo.com**
 - 📶 I am always online on Telegram **https://t.me/mostafashshsh**
 
+## 🌐 Socials:
+
+<a href='https://instagram.com/mostafaa__sh'><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'/></a>
+<a href='https://www.linkedin.com/in/mostafa-sh-b08102304'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+
 
 <h2 align='left'>💻 Tech Stack:</h2>
 
