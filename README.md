@@ -1,6 +1,8 @@
 
 <h1 align='center'>Hi 👋,My name is Mostafa</h1>
-<h3 align='center'>Just A frontend Developer 😎</h3>
+<h2 align="center">
+  <strong>📚 The more I learn, the more I realize how little I know </strong>
+</h2>
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </picture>
 
