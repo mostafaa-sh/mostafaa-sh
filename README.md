@@ -10,8 +10,7 @@
 
 
 - 🌱 These days I’m learning anything!
-- 📫 How to reach me  **mostafashshsh@yahoo.com**
-- 📶 I am always online on Telegram **https://t.me/mostafashshsh**
+- 📫 How to reach me  **https://t.me/mostafashshsh**
 
 ## 🌐 Socials:
 
